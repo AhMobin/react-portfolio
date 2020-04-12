@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaac0ce6-58db-4261-b76c-372b4be0355f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Abu_Horaira_Mobin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/portfolio-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/code.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/course.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/graphic-service.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/mobile-service.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/web-service.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/navlogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/navlogoScroll.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/new.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AboutDescription/AboutDescription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AllCourses/AllCourses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AllProjects/AllProjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Analysis/Analysis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumb/breadcrumb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Clients/Clients.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ContactSection/ContactSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CourseDetails/CourseDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Courses/Courses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PrivacyPolicy/PrivacyPolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProjectDetails/ProjectDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RecentProjects/RecentProjects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RefundPolicy/RefundPolicy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ServiceSection/ServiceSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Services/Services.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Summary/Summary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TermsConditions/TermsConditions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TopBanner/TopBanner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TopNavigation/TopNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Video/Video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ContactPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CourseDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/CoursePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PolicyPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PrivacyPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProjectDetailsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProjectPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ServicePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/TermsConditionPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/AppRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Zo9ryBtf2Ckk9NuX6PiFpnjeLy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaac0ce6-58db-4261-b76c-372b4be0355f" name="Default Changelist" comment="" />
+      <created>1585494781774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585494781774</updated>
+      <workItem from="1585494784645" duration="805000" />
+      <workItem from="1585496829647" duration="18000" />
+      <workItem from="1585499852053" duration="7017000" />
+      <workItem from="1585579919773" duration="11567000" />
+      <workItem from="1585666140939" duration="22851000" />
+      <workItem from="1585819106020" duration="3702000" />
+      <workItem from="1585834723971" duration="2004000" />
+      <workItem from="1585837202659" duration="6594000" />
+      <workItem from="1585900352070" duration="6113000" />
+      <workItem from="1585928968130" duration="6263000" />
+      <workItem from="1586185353891" duration="677000" />
+      <workItem from="1586196755105" duration="992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="165" key="run.anything.popup" timestamp="1585901600483">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1585901600483" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1585695820527">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1585695820527" />
+  </component>
+</project>
